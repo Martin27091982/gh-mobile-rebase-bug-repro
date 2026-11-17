@@ -1,5 +1,6 @@
 # gh-mobile-rebase-bug-repro
 
+
 Minimal reproduction repository for a GitHub mobile app (Android) bug:
 selecting **"Update branch (Rebase)"** on a pull request's *Update branch
 options* sheet produces a merge commit instead of a rebase.
